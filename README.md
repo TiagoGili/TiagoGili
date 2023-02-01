@@ -23,7 +23,7 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/tiago-gili-37a6821b6/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%234169e1?style=for-the-badge&logo=linkedIn&logoColor=white"</a>
-  <a href="https://github.com/TiagoGili" target="_blank"><img src="https://img.shields.io/badge/-Github-%23808080?style=for-the-badge&logo=github&logoColor=white"</a>
+  <a href="mailto:tiagogililopes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"/></a>
 </div>
     
 <br>
@@ -40,6 +40,7 @@
 ![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-0d1117?style=for-the-badge&logo=microsoft-office&logoColor=ff4500&labelColor=0d1117)&nbsp;
 
 ### Other knowledge:
+![Java](https://img.shields.io/badge/-java-0d1117?style=for-the-badge&logo=Java&logoColor=ff8c00&labelColor=0d1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0d1117?style=for-the-badge&logo=php&logoColor=7b68ee&labelColor=0d1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572b6&labelColor=0d1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff69b4&labelColor=0d1117)&nbsp;
